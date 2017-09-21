@@ -34,7 +34,7 @@ body{
 }
 
 .grid{
-  padding-top: 4rem;
+  padding-top: 2rem;
   padding-bottom: 1rem;
 }
 
@@ -77,4 +77,19 @@ body{
 
 #Brown{
   background-color: Brown;
+}
+#PeachPuff{
+  background-color: PeachPuff;
+}
+
+#Olive{
+  background-color: Olive;
+}
+
+#Lime{
+  background-color: Lime;
+}
+
+#Navy{
+  background-color: Navy;
 }
